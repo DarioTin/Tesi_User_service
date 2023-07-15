@@ -1,1 +1,10 @@
-# Tesi_User_service
+# Code snippets
+
+## Maven build
+```
+mvn clean install
+```
+## Docker image build 
+```
+docker image build -t user-service .
+```
